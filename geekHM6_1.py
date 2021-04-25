@@ -24,3 +24,4 @@ class TrafficLight():
 t1 = TrafficLight()
 
 t1.running(input('Press Enter to start, q to quit'))
+#
